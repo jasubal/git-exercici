@@ -1,6 +1,6 @@
 # ita-m0
 
-Ara he tornat a canviar a master i vaig a otrnar a fer un commit el 4...
+Ara he tornat a canviar a master i vaig a fer el 5 commit
 Això és un text de proba...
 
 # Using Git version control for code projects
