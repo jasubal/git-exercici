@@ -1,5 +1,5 @@
 # ita-m0
-Això és un text de proba desde la branch1
+Això és un text de proba desde la branch1...
 
 # Using Git version control for code projects
 
