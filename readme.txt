@@ -1,7 +1,11 @@
 # ita-m0
 
+
 Ara he tornat a canviar a master i vaig a fer el 5 commit
 Això és un text de proba...
+
+Això és un text de proba desde la branch1...
+
 
 # Using Git version control for code projects
 
